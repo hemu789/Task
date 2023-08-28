@@ -1,0 +1,7 @@
+                                                    History of Oops:
+
+Early Concepts (1950s-1960s):
+The origins of OOP can be traced back to the 1950s and 1960s when computer scientists were exploring ways to organize and structure software systems. Languages like Fortran and COBOL introduced some basic features that laid the groundwork for future OOP concepts.
+
+Simula (1960s):
+The first language explicitly designed for OOP was Simula, developed by Ole-Johan Dahl and Kristen Nygaard at the Norwegian Computing Center. Simula introduced classes, objects, inheritance, and other core OOP concepts
