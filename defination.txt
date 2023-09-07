@@ -1,0 +1,9 @@
+Encapsulation: Restrict the data with the help of access specifier.
+
+Abstraction : Hiding the unrelevant data and provides only necessary data.
+
+Inheritance : One class inherit the properties of another class.
+
+Polymorphism: Same entity behave differently in different scenarios.
+
+JavaScript (1995) -> Bredan Eich
